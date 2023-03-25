@@ -24,11 +24,6 @@ const createListElement = () => {
     const delBtn = document.createElement("button");
     delBtn.innerHTML = "Delete";
     delBtn.onclick = removeLi;
-
-    // const check = document.createElement("input");
-    // check.setAttribute("type", "checkbox");
-    // document.body.appendChild(check);
-    // check.onclick = doneTask;
     
     const checkBox = document.createElement("input");
     checkBox.type = "checkbox";
