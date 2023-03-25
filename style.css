@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    color: rgb(240, 80, 6);
+    background-color: rgb(57, 88, 49);
+    font-family: cursive;
+
+}
+
+.title{
+    text-align: center;
+    font-size: 80px;
+}
+
+p{
+    font-size: 25px;
+    text-align: end;
+}
+
+.container{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
+}
+
+#userInput{
+    width: 250px;
+    display: flex;
+    display: inline-block;
+    margin-left: 30px;
+    padding: 6px 5px;
+}
+
+.user-task{
+    display: flex;
+    justify-content: center;
+}
+
+#item{
+    list-style: none;
+}
+
+button{
+    background-color: rgb(240, 80, 6);
+    color: white;
+    padding: 5px 5px;
+    margin-left: 10px;
+    border-radius: 8px;
+    border-style: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+button:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(240, 80, 6);
+}
+
+
+#enter{
+    background-color: rgb(240, 80, 6);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border-style: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+#enter:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(240, 80, 6);
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+ul{
+    margin-right: 30px;
+}
+
+li{
+    font-size: 30px;
+    padding-left: 30px;
+}
+
