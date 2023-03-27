@@ -25,15 +25,10 @@ const createListElement = () => {
     delBtn.innerHTML = "Delete";
     delBtn.onclick = removeLi;
     
-    const checkBox = document.createElement("input");
-    checkBox.type = "checkbox";
-    checkBox.onclick = doneTask.bind(checkBox);
-
     const li = document.createElement("li");
     li.innerHTML = li.innerHTML + " ";
     li.appendChild(document.createTextNode(input.value));
     li.innerHTML = li.innerHTML + " ";
-    li.appendChild(checkBox)
     li.appendChild(delBtn);
 
     ul.appendChild(li);
