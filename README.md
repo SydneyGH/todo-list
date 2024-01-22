@@ -8,7 +8,7 @@ Simple todo-list written using Javascript
 ## Installation
 
 ## Screenshots
-![image](https://github.com/SydneyGH/todo-list/assets/83790292/57c78ebe-2ff5-4e45-9e6a-1d591d7ebceb)
+![image](https://github.com/SydneyGH/todo-list/assets/83790292/2fe1f04b-4058-417d-b391-3eba8de945a7)
 ![image](https://github.com/SydneyGH/todo-list/assets/83790292/aede95ed-8cb6-4ee2-836b-fcaf0b047f45)
 
 ## Links 
