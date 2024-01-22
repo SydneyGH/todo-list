@@ -5,8 +5,12 @@ Simple todo-list written using Javascript, CSS, and HTML
 A todo list application created using Javascript, CSS, and HTML. Users can create, update, mark out, and delete elements from the list they've made.
 
 ## Screenshots
-![image](https://github.com/SydneyGH/todo-list/assets/83790292/2fe1f04b-4058-417d-b391-3eba8de945a7)
-![image](https://github.com/SydneyGH/todo-list/assets/83790292/aede95ed-8cb6-4ee2-836b-fcaf0b047f45)
+![image](https://github.com/SydneyGH/todo-list/assets/83790292/80fa309b-234f-45d7-afc1-1500e4755141)
+![image](https://github.com/SydneyGH/todo-list/assets/83790292/b2bac174-2877-4fa2-8de2-071018ab1566)
+
+
+
+
 
 ## Links 
 https://sydneygh.github.io/todo-list/ 
