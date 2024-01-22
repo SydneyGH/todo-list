@@ -1,5 +1,5 @@
 # todo-list
-Simple todo-list written using Javascript, CSS, and HTML
+Simple todo-list written using Javascript
 
 # About
 A todo list application created using Javascript, CSS, and HTML. Users can create, update, mark out, and delete elements from the list they've made.
